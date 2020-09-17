@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41261" started-at="2020-09-17T22:40:54Z" finished-at="2020-09-17T22:41:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41261" started-at="2020-09-17T22:40:54Z" finished-at="2020-09-17T22:41:35Z">
+      <class name="Testinium.TrendyolProject.EndToEndTesting">
+        <test-method status="PASS" signature="BasePageNavigation()[pri:0, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="BasePageNavigation" duration-ms="12528" started-at="2020-09-18T01:40:54Z" finished-at="2020-09-18T01:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="ValidateLandingPage()[pri:1, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="ValidateLandingPage" duration-ms="412" started-at="2020-09-18T01:41:06Z" finished-at="2020-09-18T01:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLandingPage -->
+        <test-method status="PASS" signature="SignInActions()[pri:2, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="SignInActions" duration-ms="1859" started-at="2020-09-18T01:41:07Z" finished-at="2020-09-18T01:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInActions -->
+        <test-method status="PASS" signature="ValidateLoginPage()[pri:3, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="ValidateLoginPage" duration-ms="3223" started-at="2020-09-18T01:41:09Z" finished-at="2020-09-18T01:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginPage -->
+        <test-method status="PASS" signature="SearchProductByName()[pri:4, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="SearchProductByName" duration-ms="197" started-at="2020-09-18T01:41:12Z" finished-at="2020-09-18T01:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProductByName -->
+        <test-method status="PASS" signature="ClickSearchProduct()[pri:5, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="ClickSearchProduct" duration-ms="5120" started-at="2020-09-18T01:41:12Z" finished-at="2020-09-18T01:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSearchProduct -->
+        <test-method status="PASS" signature="ClickSelectedProduct()[pri:6, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="ClickSelectedProduct" duration-ms="2972" started-at="2020-09-18T01:41:17Z" finished-at="2020-09-18T01:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSelectedProduct -->
+        <test-method status="PASS" signature="AddtheItemtoBasket()[pri:7, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="AddtheItemtoBasket" duration-ms="2210" started-at="2020-09-18T01:41:20Z" finished-at="2020-09-18T01:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtheItemtoBasket -->
+        <test-method status="PASS" signature="GoToBasketPage()[pri:8, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="GoToBasketPage" duration-ms="5316" started-at="2020-09-18T01:41:22Z" finished-at="2020-09-18T01:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToBasketPage -->
+        <test-method status="PASS" signature="SelectedItemAddedMore()[pri:9, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="SelectedItemAddedMore" duration-ms="1033" started-at="2020-09-18T01:41:28Z" finished-at="2020-09-18T01:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectedItemAddedMore -->
+        <test-method status="PASS" signature="EmptyTheBasket()[pri:10, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="EmptyTheBasket" duration-ms="3090" started-at="2020-09-18T01:41:29Z" finished-at="2020-09-18T01:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyTheBasket -->
+        <test-method status="PASS" signature="PopupClickErase()[pri:11, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="PopupClickErase" duration-ms="173" started-at="2020-09-18T01:41:32Z" finished-at="2020-09-18T01:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopupClickErase -->
+        <test-method status="PASS" signature="ValidateBasketEmptyOrNot()[pri:12, instance:Testinium.TrendyolProject.EndToEndTesting@5b275dab]" name="ValidateBasketEmptyOrNot" duration-ms="3068" started-at="2020-09-18T01:41:32Z" finished-at="2020-09-18T01:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBasketEmptyOrNot -->
+      </class> <!-- Testinium.TrendyolProject.EndToEndTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
